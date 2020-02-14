@@ -13,7 +13,7 @@ class Hm extends Component {
         <div className="">
           <div id="navbar">
             <a href="#default" style={{ padding: "0vh 10vh" }} id="logo">
-              <img id="img1" src="img/h2m_logo.jpg" alt="this is baner" />{" "}
+              <img id="img1" src="img/h2m_logo_2.jpg" alt="this is baner" width="180" />{" "}
             </a>
             <div id="navbar-right" className="mr-5">
               {/* <a class="active" href="#home">Home</a> */}
@@ -120,7 +120,7 @@ class Hm extends Component {
                 <i className="fa fa-home fa-2x" aria-hidden="true" />
               </p>
               <div className="divbox">
-                <h6 className="font_bold mb-4 pt-5 mr_-top">VENTURE CAPITAL</h6>
+                <h6 className="font_bold mb-4 pt-5 mr_-top">SKILLSET TRANSFORMATION</h6>
                 <p className="co_8f pb-4 ml-4 mr-4 fz_12">
                   The partnership focuses on real estate-backed debt investments
                   where the financial engineering expertise of H2M’s principals
@@ -134,7 +134,7 @@ class Hm extends Component {
                 <i className="fa fa-user fa-2x" aria-hidden="true" />
               </p>
               <div className="divbox">
-                <h6 className="font_bold mb-4 pt-5 mr_-top">VENTURE CAPITAL</h6>
+                <h6 className="font_bold mb-4 pt-5 mr_-top">PRIVATE EQUITY</h6>
                 <p className="co_8f pb-4 ml-4 mr-4 fz_12">
                   H2M maximizes the value of its investments by concentrating on
                   certain industry sectors where we have substantial operating
@@ -149,10 +149,10 @@ class Hm extends Component {
             <div className="col-md-2" />
             <div className="col-md-8">
               <h2 className="text-center font_bold">
-                O P P O R T U N I T Y I N V E S T M E N T
+                O P P O R T U N I T Y &nbsp; I N V E S T M E N T
               </h2>
               <p className="co_8f mlr_center mb_9 fz_14">
-                The H2M Capital firm brings their own entrepreneurial
+                The H2M Catalyst firm brings their own entrepreneurial
                 experience, relationships, and marketing/product expertise to
                 the investments they pursue. They look to back passionate,
                 experienced entrepreneurs who are focused on creating highly
@@ -287,7 +287,7 @@ class Hm extends Component {
               <div className="col-md-4">
                 <h6 className="co_8f">CONTACT US</h6>
                 <div className="co_d">
-                  <p>H2M Capital</p>
+                  <p>H2M Catalyst</p>
                   <p>7659 S. Main Street Midvale UT 84047</p>
                   <p>801.808.2332</p>
                   <p>info@h2-m.com</p>
