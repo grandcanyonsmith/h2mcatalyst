@@ -1,0 +1,862 @@
+  <React.Fragment>
+        <div id="wrap_all">
+          <header
+            id="header"
+            className=" header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon_disabled"
+            role="banner"
+            itemScope="itemscope"
+            itemType="https://schema.org/WPHeader"
+          >
+            <a
+              id="advanced_menu_toggle"
+              href="#"
+              aria-hidden="true"
+              data-av_icon=""
+              data-av_iconfont="entypo-fontello"
+            />
+            <a
+              id="advanced_menu_hide"
+              href="#"
+              aria-hidden="true"
+              data-av_icon=""
+              data-av_iconfont="entypo-fontello"
+            />
+            <div
+              id="header_main"
+              className="container_wrap container_wrap_logo"
+            >
+              <div className="container">
+                <div className="inner-container">
+                  <strong className="logo">
+                    <a href="#">
+                      <img
+                        height={100}
+                        width={300}
+                        src="wp-content/uploads/2019/03/h2m_logo.jpg"
+                        alt="H2M Capital"
+                      />
+                    </a>
+                  </strong>
+                  <nav
+                    className="main_menu"
+                    data-selectname="Select a page"
+                    role="navigation"
+                    itemScope="itemscope"
+                    itemType="https://schema.org/SiteNavigationElement"
+                  />
+                  {/* end inner-container*/}
+                </div>
+                {/* end container*/}
+              </div>
+              {/* end container_wrap*/}
+            </div>
+            <div className="header_bg" />
+            {/* end header */}
+          </header>
+          <div id="main" data-scroll-offset={88}>
+            <div id="layer_slider_1"
+              className="avia-layerslider main_color avia-shadow  avia-builder-el-0  el_before_av_one_third  avia-builder-el-first  container_wrap fullsize"
+              style={{ height: "471px" }}
+            >
+              <div
+                className="ls-wp-fullwidth-container"
+                style={{ height: "470px",marginLeft:"10vh",marginRight:"10vh" }}
+              >
+                {/* <div className="ls-wp-fullwidth-helper">
+                  <div
+                    id="layerslider_1"
+                    className="ls-wp-container"
+                    style={{
+                      width: "100%",
+                      height: "470px",
+                      margin: "0 auto",
+                      marginBottom: "0px"
+                    }}
+                  >
+                    <div
+                      className="ls-slide"
+                      data-ls="slidedelay:7000;transition2d:11,13,23;transition3d:all;"
+                    >
+                      <img
+                        src="wp-content/themes/enfold/config-layerslider/LayerSlider/static/img/H2M-main_newCROP_BW4_noEXIT-e1435728628422.jpg"
+                        data-src="http://www.h2-m.com/wp-content/uploads/2015/07/H2M-main_newCROP_BW4_noEXIT-e1435728628422.jpg"
+                        className="ls-bg"
+                        alt="H2M-main_newCROP_B&W4_noEXIT"
+                      />
+                    </div>
+                  </div>
+                </div>
+              */}
+
+      <div className="ls-wp-fullwidth-helper" style={{width: '1226px', height: '470px', left: '0px'}}><div id="layerslider_1" className="ls-wp-container ls-container ls-fullwidth" style={{width: '1226px', height: '470px', margin: '0px auto', visibility: 'visible'}}><div className="ls-inner" style={{backgroundColor: 'transparent', width: '1226px', height: '470px'}}><div className="ls-slide ls-animating" data-ls="slidedelay:7000;transition2d:11,13,23;transition3d:all;" style={{width: '1226px', height: '470px', visibility: 'visible', display: 'none', left: 'auto', right: '0px', top: '0px', bottom: 'auto'}}><img src="wp-content/themes/enfold/config-layerslider/LayerSlider/static/img/H2M-main_newCROP_BW4_noEXIT-e1435728628422.jpg" className="ls-bg ls-preloaded" alt="H2M-main_newCROP_B&W4_noEXIT" style={{padding: '0px', borderWidth: '0px', width: '1500px', height: '703px', marginLeft: '-137px', marginTop: '-116.5px'}} /><div className="ls-gpuhack" style={{width: 'auto', height: 'auto', padding: '0px', borderWidth: '0px', left: '43px', top: '0px'}} /></div></div><div className="ls-loading-container" style={{zIndex: -1, display: 'none'}}><div className="ls-loading-indicator" /></div><div className="ls-shadow" /></div></div>   
+          
+
+              </div>
+            </div>
+           
+           {/* <img src='assets/img/H2M-main_newCROP_BW4_noEXIT-e1435728628422.jpg' alt="this"/> */}
+           
+             <div
+              id="after_layer_slider_1"
+              className="main_color container_wrap fullsize"
+            >
+              <div className="container">
+                <div className="template-page content  av-content-full alpha units">
+                  <div className="post-entry post-entry-type-page post-entry-734">
+                    <div className="entry-content-wrapper clearfix">
+                      <div className="flex_column av_one_third first  avia-builder-el-1  el_after_av_layerslider  el_before_av_one_third  avia-builder-el-first  ">
+                        <article
+                          className="iconbox iconbox_top main_color   avia-builder-el-2  avia-builder-el-no-sibling "
+                          itemScope="itemscope"
+                          itemType="https://schema.org/CreativeWork"
+                        >
+                          <div className="iconbox_content">
+                            <header className="entry-content-header">
+                              <div
+                                className="iconbox_icon heading-color"
+                                aria-hidden="true"
+                                data-av_icon=""
+                                data-av_iconfont="entypo-fontello"
+                                style={{ backgroundColor: "#083e60" }}
+                              />
+                              <h3
+                                className="iconbox_content_title"
+                                itemProp="headline"
+                              >
+                                Venture Capital
+                              </h3>
+                            </header>
+                            <div
+                              className="iconbox_content_container "
+                              itemProp="text"
+                            >
+                              <p>
+                                H2M partners with the brightest entrepreneurs to
+                                turn disruptive ideas into world-changing
+                                businesses.
+                              </p>
+                            </div>
+                          </div>
+                          <footer className="entry-footer" />
+                        </article>
+                      </div>
+                      <div className="flex_column av_one_third   avia-builder-el-3  el_after_av_one_third  el_before_av_one_third  ">
+                        <article
+                          className="iconbox iconbox_top main_color   avia-builder-el-4  avia-builder-el-no-sibling "
+                          itemScope="itemscope"
+                          itemType="https://schema.org/CreativeWork"
+                        >
+                          <div className="iconbox_content">
+                            <header className="entry-content-header">
+                              <div
+                                className="iconbox_icon heading-color"
+                                aria-hidden="true"
+                                data-av_icon=""
+                                data-av_iconfont="entypo-fontello"
+                                style={{ backgroundColor: "#083e60" }}
+                              />
+                              <h3
+                                className="iconbox_content_title"
+                                itemProp="headline"
+                              >
+                                Real Estate
+                              </h3>
+                            </header>
+                            <div
+                              className="iconbox_content_container "
+                              itemProp="text"
+                            >
+                              <p>
+                                The partnership focuses on real estate-backed
+                                debt investments where the financial engineering
+                                expertise of H2M’s principals helps to maximize
+                                safety and return for both investors and
+                                borrowers alike.
+                              </p>
+                            </div>
+                          </div>
+                          <footer className="entry-footer" />
+                        </article>
+                      </div>
+                      <div className="flex_column av_one_third   avia-builder-el-5  el_after_av_one_third  el_before_av_section  avia-builder-el-last  ">
+                        <article
+                          className="iconbox iconbox_top main_color   avia-builder-el-6  avia-builder-el-no-sibling "
+                          itemScope="itemscope"
+                          itemType="https://schema.org/CreativeWork"
+                        >
+                          <div className="iconbox_content">
+                            <header className="entry-content-header">
+                              <div
+                                className="iconbox_icon heading-color"
+                                aria-hidden="true"
+                                data-av_icon=""
+                                data-av_iconfont="entypo-fontello"
+                                style={{ backgroundColor: "#083e60" }}
+                              />
+                              <h3
+                                className="iconbox_content_title"
+                                itemProp="headline"
+                              >
+                                Private Equity
+                              </h3>
+                            </header>
+                            <div
+                              className="iconbox_content_container "
+                              itemProp="text"
+                            >
+                              <p>
+                                H2M&nbsp;maximizes the value of its investments
+                                by concentrating on certain industry sectors
+                                where we have substantial operating and
+                                investment experience.
+                              </p>
+                            </div>
+                          </div>
+                          <footer className="entry-footer" />
+                        </article>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {/* close content main div */}
+              </div>
+            </div>
+            <div
+              id="av_section_1"
+              className="avia-section alternate_color avia-section-large avia-shadow avia-bg-style-scroll  avia-builder-el-7  el_after_av_one_third  el_before_av_fullscreen  container_wrap fullsize"
+              style={{ backgroundColor: "#f4f4f4" }}
+            >
+              <div className="container">
+                <div className="template-page content  av-content-full alpha units">
+                  <div className="post-entry post-entry-type-page post-entry-734">
+                    <div className="entry-content-wrapper clearfix">
+                      <section
+                        className="av_textblock_section"
+                        itemScope="itemscope"
+                        itemType="https://schema.org/CreativeWork"
+                      >
+                        <div className="avia_textblock " itemProp="text">
+                          <h2 style={{ textAlign: "center" }}>
+                            O P P O R T U N I T Y &nbsp; I N V E S T M E N T
+                          </h2>
+                        </div>
+                      </section>
+                      <div className="flex_column av_one_fifth first  avia-builder-el-9  el_after_av_textblock  el_before_av_three_fifth  column-top-margin" />
+                      <div className="flex_column av_three_fifth   avia-builder-el-10  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin">
+                        <section
+                          className="av_textblock_section"
+                          itemScope="itemscope"
+                          itemType="https://schema.org/CreativeWork"
+                        >
+                          <div className="avia_textblock " itemProp="text">
+                            <p style={{ textAlign: "center" }}>
+                              The H2M Capital firm brings their own
+                              entrepreneurial experience, relationships, and
+                              marketing/product expertise to the investments
+                              they pursue. They look to back passionate,
+                              experienced entrepreneurs who are focused on
+                              creating highly scalable technologies and
+                              significant value propositions for their targeted
+                              markets.
+                            </p>
+                          </div>
+                        </section>
+                      </div>
+                      <div className="flex_column av_one_fifth   avia-builder-el-12  el_after_av_three_fifth  avia-builder-el-last  column-top-margin" />
+                    </div>
+                  </div>
+                </div>
+                {/* close content main div */}
+              </div>
+            </div>
+            <div
+              id="fullscreen_slider_0"
+              className="avia-fullscreen-slider main_color  avia-builder-el-13  el_after_av_section  el_before_av_section  slider-not-first container_wrap fullsize"
+            >
+              <div
+                data-size="large"
+                data-lightbox_size="large"
+                data-animation="slide"
+                data-ids={2947}
+                data-video_counter={0}
+                data-autoplay="false"
+                data-bg_slider="true"
+                data-slide_height={100}
+                data-handle="av_fullscreen"
+                data-interval={5}
+                data-class=" "
+                data-css_id="fullscreen_slider_0"
+                data-scroll_down
+                data-control_layout
+                data-custom_markup
+                data-perma_caption
+                data-autoplay_stopper
+                data-stretch
+                className="avia-slideshow avia-slideshow-1  avia-slideshow-large av_fullscreen   avia-slide-slider "
+                itemScope="itemscope"
+                itemType="https://schema.org/ImageObject"
+              >
+                <ul className="avia-slideshow-inner">
+                  <li
+                    style={{ backgroundPosition: "center center" }}
+                    data-img-url="http://www.h2-m.com/wp-content/uploads/2015/06/Teamwork_Slider_4-1030x686.jpg"
+                    className=" av-single-slide slide-1 "
+                  >
+                    <div data-rel="slideshow-1" className="avia-slide-wrap" />
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              id="av_section_2"
+              className="avia-section alternate_color avia-section-large avia-shadow avia-bg-style-scroll  avia-builder-el-14  el_after_av_fullscreen  el_before_av_fullscreen  container_wrap fullsize"
+            >
+              <div className="container">
+                <div className="template-page content  av-content-full alpha units">
+                  <div className="post-entry post-entry-type-page post-entry-734">
+                    <div className="entry-content-wrapper clearfix">
+                      <div className="flex_column av_one_half first  avia-builder-el-15  el_before_av_one_half  avia-builder-el-first  ">
+                        <section
+                          className="av_textblock_section"
+                          itemScope="itemscope"
+                          itemType="https://schema.org/CreativeWork"
+                        >
+                          <div className="avia_textblock " itemProp="text">
+                            <h2 style={{ textAlign: "right" }}>About Us</h2>
+                          </div>
+                        </section>
+                        <div className="hr hr-short hr-right  avia-builder-el-17  el_after_av_textblock  el_before_av_textblock ">
+                          <span className="hr-inner ">
+                            <span className="hr-inner-style" />
+                          </span>
+                        </div>
+                        <section
+                          className="av_textblock_section"
+                          itemScope="itemscope"
+                          itemType="https://schema.org/CreativeWork"
+                        >
+                          <div className="avia_textblock " itemProp="text">
+                            <p style={{ textAlign: "right" }}></p>
+                            <p style={{ textAlign: "center" }}>
+                              H2M invests in high technology companies, and is
+                              based on the premise for a new, modern venture
+                              capital firm that supports the most promising
+                              founders in high-growth markets. We bring our own
+                              entrepreneurial experience, relationships, and
+                              marketing/product expertise to the table.&nbsp;We
+                              like to back passionate, experienced entrepreneurs
+                              who are focused on creating highly scalable
+                              technologies and significant value propositions
+                              for their target markets.
+                            </p>
+                            <p style={{ textAlign: "right" }}></p>
+                            <p style={{ textAlign: "right" }}></p>
+                            <p style={{ textAlign: "right" }}></p>
+                            <p style={{ textAlign: "right" }}></p>
+                          </div>
+                        </section>
+                      </div>
+                      <div className="flex_column av_one_half   avia-builder-el-19  el_after_av_one_half  avia-builder-el-last  ">
+                        <div className="avia-icon-list-container  avia-builder-el-20  avia-builder-el-no-sibling ">
+                          <ul className="avia-icon-list avia-icon-list-left avia_animate_when_almost_visible">
+                            <li>
+                              <div
+                                style={{ backgroundColor: "#083e60" }}
+                                className="iconlist_icon avia-font-entypo-fontello"
+                              >
+                                <span
+                                  className="iconlist-char"
+                                  aria-hidden="true"
+                                  data-av_icon=""
+                                  data-av_iconfont="entypo-fontello"
+                                />
+                              </div>
+                              <article
+                                className="article-icon-entry "
+                                itemScope="itemscope"
+                                itemType="https://schema.org/CreativeWork"
+                              >
+                                <div className="iconlist_content_wrap">
+                                  <header className="entry-content-header">
+                                    <h4
+                                      className="iconlist_title"
+                                      itemProp="headline"
+                                    >
+                                      ACQUIRE TRACTION
+                                    </h4>
+                                  </header>
+                                  <div
+                                    className="iconlist_content "
+                                    itemProp="text"
+                                  >
+                                    <p>
+                                      The seed landscape has changed
+                                      dramatically over the past several years.
+                                      Companies are being created and raising
+                                      small amounts of capital to de-risk and
+                                      validate, or disprove, many of their
+                                      original assumptions.
+                                    </p>
+                                  </div>
+                                </div>
+                                <footer className="entry-footer" />
+                              </article>
+                              <div className="iconlist-timeline" />
+                            </li>
+                            <li>
+                              <div
+                                style={{ backgroundColor: "#083e60" }}
+                                className="iconlist_icon avia-font-entypo-fontello"
+                              >
+                                <span
+                                  className="iconlist-char"
+                                  aria-hidden="true"
+                                  data-av_icon=""
+                                  data-av_iconfont="entypo-fontello"
+                                />
+                              </div>
+                              <article
+                                className="article-icon-entry "
+                                itemScope="itemscope"
+                                itemType="https://schema.org/CreativeWork"
+                              >
+                                <div className="iconlist_content_wrap">
+                                  <header className="entry-content-header">
+                                    <h4
+                                      className="iconlist_title"
+                                      itemProp="headline"
+                                    >
+                                      OPTIMIZE UNIT ECONOMICS
+                                    </h4>
+                                  </header>
+                                  <div
+                                    className="iconlist_content "
+                                    itemProp="text"
+                                  >
+                                    <p>
+                                      We have an upgraded strategy of not just
+                                      “getting in the good deals,” but rather
+                                      participating with larger investments and
+                                      solid follow-ons.
+                                    </p>
+                                  </div>
+                                </div>
+                                <footer className="entry-footer" />
+                              </article>
+                              <div className="iconlist-timeline" />
+                            </li>
+                            <li>
+                              <div
+                                style={{ backgroundColor: "#083e60" }}
+                                className="iconlist_icon avia-font-entypo-fontello"
+                              >
+                                <span
+                                  className="iconlist-char"
+                                  aria-hidden="true"
+                                  data-av_icon=""
+                                  data-av_iconfont="entypo-fontello"
+                                />
+                              </div>
+                              <article
+                                className="article-icon-entry "
+                                itemScope="itemscope"
+                                itemType="https://schema.org/CreativeWork"
+                              >
+                                <div className="iconlist_content_wrap">
+                                  <header className="entry-content-header">
+                                    <h4
+                                      className="iconlist_title"
+                                      itemProp="headline"
+                                    >
+                                      GAIN VELOCITY
+                                    </h4>
+                                  </header>
+                                  <div
+                                    className="iconlist_content "
+                                    itemProp="text"
+                                  >
+                                    <p>
+                                      We don’t think experience or data alone
+                                      are basis enough for a decision. &nbsp;We
+                                      work very closely with the management
+                                      teams to provide as much value as
+                                      possible. &nbsp;We combine years of
+                                      operational experience with extensive data
+                                      analysis to evaluate the best options, and
+                                      then act upon them.
+                                    </p>
+                                  </div>
+                                </div>
+                                <footer className="entry-footer" />
+                              </article>
+                              <div className="iconlist-timeline" />
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {/* close content main div */}
+              </div>
+            </div>
+            <div
+              id="fullscreen_slider_0"
+              className="avia-fullscreen-slider main_color  avia-builder-el-21  el_after_av_section  avia-builder-el-last  slider-not-first container_wrap fullsize"
+            >
+              <div
+                data-size="large"
+                data-lightbox_size="large"
+                data-animation="slide"
+                data-ids={2982}
+                data-video_counter={0}
+                data-autoplay="false"
+                data-bg_slider="true"
+                data-slide_height={100}
+                data-handle="av_fullscreen"
+                data-interval={5}
+                data-class=" "
+                data-css_id="fullscreen_slider_0"
+                data-scroll_down
+                data-control_layout
+                data-custom_markup
+                data-perma_caption
+                data-autoplay_stopper
+                data-stretch
+                className="avia-slideshow avia-slideshow-2  avia-slideshow-large av_fullscreen   avia-slide-slider "
+                itemScope="itemscope"
+                itemType="https://schema.org/ImageObject"
+              >
+                <ul className="avia-slideshow-inner">
+                  <li
+                    style={{ backgroundPosition: "center center" }}
+                    data-img-url="http://www.h2-m.com/wp-content/uploads/2013/04/H2M-ConferenceRoom_Crop-1030x483.jpg"
+                    className=" av-single-slide slide-1 "
+                  >
+                    <div data-rel="slideshow-2" className="avia-slide-wrap" />
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <p />
+            <div>
+              <div> </div>
+              {/*end builder template*/}
+            </div>
+            {/* close default .container_wrap element */}{" "}
+            <div className="container_wrap footer_color" id="footer">
+              <div className="container">
+                <div className="flex_column av_one_third  first el_before_av_one_third">
+                  <section id="text-2" className="widget clearfix widget_text">
+                    <h3 className="widgettitle">CONTACT US</h3>{" "}
+                    <div className="textwidget">
+                      H2M Capital
+                      <br />
+                      <br />
+                      7659 S. Main Street
+                      <br />
+                      Midvale UT 84047
+                      <br />
+                      <br />
+                      801.808.2332
+                      <br />
+                      info@h2-m.com
+                    </div>
+                    <span className="seperator extralight-border" />
+                  </section>
+                </div>
+                <div className="flex_column av_one_third  el_after_av_one_third  el_before_av_one_third ">
+                  <section id="text-3" className="widget clearfix widget_text">
+                    {" "}
+                    <div className="textwidget" />
+                    <span className="seperator extralight-border" />
+                  </section>
+                </div>
+                <div className="flex_column av_one_third  el_after_av_one_third  el_before_av_one_third ">
+                  <section
+                    id="avia_google_maps-2"
+                    className="widget clearfix avia_google_maps"
+                  >
+                    <h3 className="widgettitle">Headquarters</h3>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.872177310437!2d-111.91244608523077!3d40.61064375174819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDM2JzM4LjMiTiAxMTHCsDU0JzM2LjkiVw!5e0!3m2!1sen!2s!4v1581492391335!5m2!1sen!2s" width={600} height={250} frameBorder={0} style={{border: 0}} allowFullScreen />
+                  </section>
+                  {/* <section id="text-4" className="widget clearfix widget_text">
+                    {" "}
+                    <div className="textwidget" />
+                    <span className="seperator extralight-border" />
+                  </section> */}
+                </div>
+              </div>
+              {/* ####### END FOOTER CONTAINER ####### */}
+            </div>
+            <footer
+              className="container_wrap socket_color"
+              id="socket"
+              role="contentinfo"
+              itemScope="itemscope"
+              itemType="https://schema.org/WPFooter"
+            >
+              <div className="container">
+                <span className="copyright">
+                  © Copyright - H2M Capital 2019{" "}
+                </span>
+                <nav
+                  className="sub_menu_socket"
+                  role="navigation"
+                  itemScope="itemscope"
+                  itemType="https://schema.org/SiteNavigationElement"
+                />
+              </div>
+              {/* ####### END SOCKET CONTAINER ####### */}
+            </footer>
+            {/* end main */}
+          </div>
+          {/* end wrap_all */}
+        </div>
+      </React.Fragment>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="logo192.png" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <title>React App</title>
+  </head> -->
+  <!DOCTYPE html>
+  <html lang="en-US" class=" html_stretched responsive av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_mobile_menu_phone html_header_mobile_behavior html_header_searchicon_disabled html_content_align_center html_entry_id_734 ">
+<head>
+  <meta charset="UTF-8" />
+  <title>H2M Capital | Opportunity Investment</title>
+  
+  <meta name="robots" content="index, follow" />
+  
+  
+  <!-- mobile setting -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- Scripts/CSS and wp_head hook -->
+  <link rel='dns-prefetch' href='http://s.w.org/' />
+  <link rel="alternate" type="application/rss+xml" title="H2M Capital &raquo; Feed" href="indexd784.html?feed=rss2" />
+  <link rel="alternate" type="application/rss+xml" title="H2M Capital &raquo; Comments Feed" href="indexa6da.html?feed=comments-rss2" />
+  <link rel="alternate" type="application/rss+xml" title="H2M Capital &raquo; Homepage Comments Feed" href="index4fdf.html?feed=rss2&amp;page_id=734" />
+  
+  <!-- google webfont font replacement -->
+  <link rel='stylesheet' id='avia-google-webfont' href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' type='text/css' media='all'/> 
+      <script type="text/javascript">
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.h2-m.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=8484398104bc3bca63bb38cf836e48ad"}};
+        !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+      </script>
+      <style type="text/css">
+  img.wp-smiley,
+  img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+  }
+  </style>
+    <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min6213.css?ver=8484398104bc3bca63bb38cf836e48ad' type='text/css' media='all' />
+  <link rel='stylesheet' id='avia-grid-css'  href='wp-content/themes/enfold/css/grid77ae.css?ver=2' type='text/css' media='all' />
+  <link rel='stylesheet' id='avia-base-css'  href='wp-content/themes/enfold/css/base77ae.css?ver=2' type='text/css' media='all' />
+  <link rel='stylesheet' id='avia-layout-css'  href='wp-content/themes/enfold/css/layout77ae.css?ver=2' type='text/css' media='all' />
+  <link rel='stylesheet' id='avia-scs-css'  href='wp-content/themes/enfold/css/shortcodes77ae.css?ver=2' type='text/css' media='all' />
+  <link rel='stylesheet' id='avia-popup-css-css'  href='wp-content/themes/enfold/js/aviapopup/magnific-popup68b3.css?ver=1' type='text/css' media='screen' />
+  <link rel='stylesheet' id='avia-media-css'  href='wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer68b3.css?ver=1' type='text/css' media='screen' />
+  <link rel='stylesheet' id='avia-print-css'  href='wp-content/themes/enfold/css/print68b3.css?ver=1' type='text/css' media='print' />
+  <link rel='stylesheet' id='avia-dynamic-css'  href='wp-content/uploads/dynamic_avia/enfoldabd5.css?ver=5c86cd57107c6' type='text/css' media='all' />
+  <link rel='stylesheet' id='avia-custom-css'  href='wp-content/themes/enfold/css/custom77ae.css?ver=2' type='text/css' media='all' />
+  <link rel='stylesheet' id='layerslider-css'  href='wp-content/themes/enfold/config-layerslider/LayerSlider/static/css/layerslider9dff.css?ver=5.3.2' type='text/css' media='all' />
+  <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+  <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+  <script type='text/javascript' src='wp-content/themes/enfold/js/avia-compat77ae.js?ver=2'></script>
+  <script type='text/javascript'>
+  var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+  </script>
+  <script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-and-player.min45a0.js?ver=4.2.6-78496d1'></script>
+  <script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-migrate.min6213.js?ver=8484398104bc3bca63bb38cf836e48ad'></script>
+  <script type='text/javascript'>
+  /* <![CDATA[ */
+  var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+  /* ]]> */
+  </script>
+  <script type='text/javascript' src='wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/greensockcd11.js?ver=1.11.8'></script>
+  <script type='text/javascript' src='wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/layerslider.kreaturamedia.jquery9dff.js?ver=5.3.2'></script>
+  <script type='text/javascript' src='wp-content/themes/enfold/config-layerslider/LayerSlider/static/js/layerslider.transitions9dff.js?ver=5.3.2'></script>
+  <link rel='https://api.w.org/' href='index52f0.json?rest_route=/' />
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+  
+  <link rel="canonical" href="index.html" />
+  <link rel='shortlink' href='index.html' />
+  <link rel="alternate" type="application/json+oembed" href="index70bd.json?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Fwww.h2-m.com%2F" />
+  <link rel="alternate" type="text/xml+oembed" href="indexb7f2.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Fwww.h2-m.com%2F&amp;format=xml" />
+  <script type="text/javascript">
+  (function(url){
+    if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+    var addEvent = function(evt, handler) {
+      if (window.addEventListener) {
+        document.addEventListener(evt, handler, false);
+      } else if (window.attachEvent) {
+        document.attachEvent('on' + evt, handler);
+      }
+    };
+    var removeEvent = function(evt, handler) {
+      if (window.removeEventListener) {
+        document.removeEventListener(evt, handler, false);
+      } else if (window.detachEvent) {
+        document.detachEvent('on' + evt, handler);
+      }
+    };
+    var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+    var logHuman = function() {
+      if (window.wfLogHumanRan) { return; }
+      window.wfLogHumanRan = true;
+      var wfscr = document.createElement('script');
+      wfscr.type = 'text/javascript';
+      wfscr.async = true;
+      wfscr.src = url + '&r=' + Math.random();
+      (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+      for (var i = 0; i < evts.length; i++) {
+        removeEvent(evts[i], logHuman);
+      }
+    };
+    for (var i = 0; i < evts.length; i++) {
+      addEvent(evts[i], logHuman);
+    }
+  })('indexaeb4.html?wordfence_lh=1&amp;hid=7A56B13F8A23DE06EDE94A1B5D26A2A2');
+  </script><link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="alternate" type="application/rss+xml" title="H2M Capital RSS2 Feed" href="indexd784.html?feed=rss2" />
+  <link rel="pingback" href="xmlrpc.php" />
+  
+  <style type='text/css'>
+  @font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+  src: url('wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello30f4.eot?v=3');
+  src: url('wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello30f4.eot?v=3#iefix') format('embedded-opentype'), 
+  url('wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello30f4.woff?v=3') format('woff'), 
+  url('wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello30f4.ttf?v=3') format('truetype'), 
+  url('wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello30f4.svg?v=3#entypo-fontello') format('svg');
+  } #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+  </style>
+  </head>
+  
+  
+
+
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+
+    <script type='text/javascript'>
+      /* <![CDATA[ */  
+     var avia_framework_globals = avia_framework_globals || {};
+         avia_framework_globals.frameworkUrl = 'wp-content/themes/enfold/framework/index.html';
+         avia_framework_globals.installedAt = 'wp-content/themes/enfold/index.html';
+         avia_framework_globals.ajaxurl = 'wp-admin/admin-ajax.html';
+     /* ]]> */ 
+     </script>
+      
+      <script type='text/javascript' src='wp-content/themes/enfold/js/avia592e.js?ver=3'></script>
+     <script type='text/javascript' src='wp-content/themes/enfold/js/shortcodes592e.js?ver=3'></script>
+     <script type='text/javascript' src='wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min77ae.js?ver=2'></script>
+     <script type='text/javascript' src='wp-includes/js/mediaelement/wp-mediaelement.min6213.js?ver=8484398104bc3bca63bb38cf836e48ad'></script>
+     <script type='text/javascript' src='wp-includes/js/comment-reply.min6213.js?ver=8484398104bc3bca63bb38cf836e48ad'></script>
+     <script type='text/javascript' src='wp-includes/js/wp-embed.min6213.js?ver=8484398104bc3bca63bb38cf836e48ad'></script>
+     <script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;ver=1'></script>
+     <a href='#' title='Scroll' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text"></span></a>
+     
+     <div id="fb-root"></div>
+
+
+
+
+     
+  </body>
+</html>
